@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -18,4 +19,24 @@
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Array
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
