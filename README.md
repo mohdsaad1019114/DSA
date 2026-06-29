@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdsaad1019114/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohdsaad1019114/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdsaad1019114/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohdsaad1019114/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
