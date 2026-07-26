@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohdsaad1019114/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mohdsaad1019114/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -35,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/mohdsaad1019114/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohdsaad1019114/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdsaad1019114/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -77,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/mohdsaad1019114/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdsaad1019114/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohdsaad1019114/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
