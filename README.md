@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/mohdsaad1019114/DSA/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohdsaad1019114/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdsaad1019114/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdsaad1019114/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdsaad1019114/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mohdsaad1019114/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
