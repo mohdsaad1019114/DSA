@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohdsaad1019114/DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdsaad1019114/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohdsaad1019114/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/mohdsaad1019114/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mohdsaad1019114/DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/mohdsaad1019114/DSA/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohdsaad1019114/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdsaad1019114/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdsaad1019114/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mohdsaad1019114/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/mohdsaad1019114/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdsaad1019114/DSA/tree/master/1331-rank-transform-of-an-array) |
