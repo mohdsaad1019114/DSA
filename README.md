@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mohdsaad1019114/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohdsaad1019114/DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdsaad1019114/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/mohdsaad1019114/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/mohdsaad1019114/DSA/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/mohdsaad1019114/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdsaad1019114/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohdsaad1019114/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/mohdsaad1019114/DSA/tree/master/1288-remove-covered-intervals) |
@@ -88,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohdsaad1019114/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
