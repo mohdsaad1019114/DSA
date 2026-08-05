@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/mohdsaad1019114/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/mohdsaad1019114/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohdsaad1019114/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mohdsaad1019114/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -49,6 +50,7 @@
 | [0001-two-sum](https://github.com/mohdsaad1019114/DSA/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/mohdsaad1019114/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/mohdsaad1019114/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mohdsaad1019114/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +130,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mohdsaad1019114/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/mohdsaad1019114/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/mohdsaad1019114/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohdsaad1019114/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
