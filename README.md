@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mohdsaad1019114/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/mohdsaad1019114/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mohdsaad1019114/DSA/tree/master/0242-valid-anagram) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohdsaad1019114/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/mohdsaad1019114/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mohdsaad1019114/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -141,6 +143,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/mohdsaad1019114/DSA/tree/master/0036-valid-sudoku) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohdsaad1019114/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohdsaad1019114/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mohdsaad1019114/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
