@@ -191,6 +191,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdsaad1019114/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/mohdsaad1019114/DSA/tree/master/0155-min-stack) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -203,4 +204,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdsaad1019114/DSA/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/mohdsaad1019114/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
