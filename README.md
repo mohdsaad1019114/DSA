@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mohdsaad1019114/DSA/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohdsaad1019114/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohdsaad1019114/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -51,6 +52,7 @@
 | [0036-valid-sudoku](https://github.com/mohdsaad1019114/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/mohdsaad1019114/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohdsaad1019114/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mohdsaad1019114/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdsaad1019114/DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mohdsaad1019114/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohdsaad1019114/DSA/tree/master/0155-min-stack) |
 ## Bucket Sort
 |  |
