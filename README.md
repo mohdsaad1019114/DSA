@@ -56,6 +56,7 @@
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mohdsaad1019114/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/mohdsaad1019114/DSA/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/mohdsaad1019114/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohdsaad1019114/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdsaad1019114/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -195,6 +196,7 @@
 | [0020-valid-parentheses](https://github.com/mohdsaad1019114/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdsaad1019114/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohdsaad1019114/DSA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/mohdsaad1019114/DSA/tree/master/0739-daily-temperatures) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mohdsaad1019114/DSA/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mohdsaad1019114/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
