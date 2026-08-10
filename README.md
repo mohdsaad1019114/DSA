@@ -55,6 +55,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/mohdsaad1019114/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/mohdsaad1019114/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdsaad1019114/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdsaad1019114/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mohdsaad1019114/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mohdsaad1019114/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdsaad1019114/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -123,6 +124,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdsaad1019114/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mohdsaad1019114/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mohdsaad1019114/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/mohdsaad1019114/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdsaad1019114/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
