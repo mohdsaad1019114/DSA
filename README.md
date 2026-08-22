@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohdsaad1019114/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mohdsaad1019114/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohdsaad1019114/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/mohdsaad1019114/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
@@ -101,6 +102,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohdsaad1019114/DSA/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mohdsaad1019114/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -187,6 +189,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohdsaad1019114/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohdsaad1019114/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/mohdsaad1019114/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdsaad1019114/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
