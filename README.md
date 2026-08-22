@@ -42,6 +42,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohdsaad1019114/DSA/tree/master/0042-trapping-rain-water) |
 | [1301-number-of-paths-with-max-score](https://github.com/mohdsaad1019114/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/mohdsaad1019114/DSA/tree/master/3620-network-recovery-pathways) |
@@ -53,6 +54,7 @@
 | [0011-container-with-most-water](https://github.com/mohdsaad1019114/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohdsaad1019114/DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/mohdsaad1019114/DSA/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/mohdsaad1019114/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mohdsaad1019114/DSA/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohdsaad1019114/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/mohdsaad1019114/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -191,6 +193,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohdsaad1019114/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mohdsaad1019114/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/mohdsaad1019114/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/mohdsaad1019114/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohdsaad1019114/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/mohdsaad1019114/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdsaad1019114/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mohdsaad1019114/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohdsaad1019114/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohdsaad1019114/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohdsaad1019114/DSA/tree/master/0155-min-stack) |
@@ -232,6 +236,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohdsaad1019114/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohdsaad1019114/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/mohdsaad1019114/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/mohdsaad1019114/DSA/tree/master/0853-car-fleet) |
